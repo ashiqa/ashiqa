@@ -3,7 +3,7 @@
 
 <br/>
 
-- 🌱  **I like to do Web and App Development **
+- 🌱  ** Web and App Development enthusiast**
 
 <img src="https://github-profile-trophy.vercel.app/?username=ashiqa&theme=dracula&column=3&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
 
