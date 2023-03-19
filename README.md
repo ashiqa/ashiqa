@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Ashiqa Rahman</h1>
-<h3 >A 3rd year B.Tech Undergrad from National Institute of Technology, Warangal, India</h3>
+<h3 >A final year B.Tech undergrad from National Institute of Technology, Warangal, India</h3>
 
 <br/>
 
